@@ -1,0 +1,38 @@
+<fi>
+	<item>
+		<serviciu>Apa rece</serviciu>
+		<cant>9</cant>
+		<um>metri cubi</um>
+		<val>6.45</val>
+		<total>58.05</total>
+		<fact>AV288 / 12250328</fact>
+		<cantf>126</cantf>
+		<umf>metri cubi</umf>
+		<valf>6.45</valf>
+		<totalf>812.76</totalf>
+	</item>
+	<item>
+		<serviciu>Administrare (GA)</serviciu>
+		<cant>1</cant>
+		<um>apartament</um>
+		<val>12.9</val>
+		<total>12.9</total>
+		<fact>UADM/770</fact>
+		<cantf>12.9</cantf>
+		<umf>apartament</umf>
+		<valf>15</valf>
+		<totalf>193.5</totalf>
+	</item>
+	<item>
+		<serviciu>Diferenta apa rece</serviciu>
+		<cant>3</cant>
+		<um>metri cubi</um>
+		<val>3.14</val>
+		<total>9.43</total>
+		<fact>AV288 / 12250328</fact>
+		<cantf>19</cantf>
+		<umf>metri cubi</umf>
+		<valf>6.45</valf>
+		<totalf>122.56</totalf>
+	</item>
+</fi>

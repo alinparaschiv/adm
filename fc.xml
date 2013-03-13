@@ -1,0 +1,104 @@
+<fisacont>
+  <item>
+      <data>2012-03-16</data>
+      <explicatie>LP Februarie 2012</explicatie>
+      <act>LP</act>
+      <valoare>83.1500</valoare>
+  </item >
+  <item>
+      <data>2012-04-19</data>
+      <explicatie>plata intretinere</explicatie>
+      <act>URB/9</act>
+      <valoare>182.8100</valoare>
+  </item >
+  <item>
+      <data>2012-04-19</data>
+      <explicatie>LP Martie 2012</explicatie>
+      <act>LP</act>
+      <valoare>59.2700</valoare>
+  </item >
+  <item>
+      <data>2012-05-17</data>
+      <explicatie>LP Aprilie 2012</explicatie>
+      <act>LP</act>
+      <valoare>73.1400</valoare>
+  </item >
+  <item>
+      <data>2012-05-22</data>
+      <explicatie>plata intretinere</explicatie>
+      <act>ADM\30843</act>
+      <valoare>59.3000</valoare>
+  </item >
+  <item>
+      <data>2012-06-15</data>
+      <explicatie>LP Mai 2012</explicatie>
+      <act>LP</act>
+      <valoare>62.2500</valoare>
+  </item >
+  <item>
+      <data>2012-07-04</data>
+      <explicatie>plata intretinere</explicatie>
+      <act>URB/105</act>
+      <valoare>135.3600</valoare>
+  </item >
+  <item>
+      <data>2012-07-04</data>
+      <explicatie>plata penalizare</explicatie>
+      <act>URB/106</act>
+      <valoare>4.7000</valoare>
+  </item >
+  <item>
+      <data>2012-07-17</data>
+      <explicatie>LP Iunie 2012</explicatie>
+      <act>LP</act>
+      <valoare>79.2000</valoare>
+  </item >
+  <item>
+      <data>2012-08-17</data>
+      <explicatie>LP Iulie 2012</explicatie>
+      <act>LP</act>
+      <valoare>57.0000</valoare>
+  </item >
+  <item>
+      <data>2012-08-20</data>
+      <explicatie>plata intretinere</explicatie>
+      <act>URB/866</act>
+      <valoare>80.0000</valoare>
+  </item >
+  <item>
+      <data>2012-09-17</data>
+      <explicatie>LP August 2012</explicatie>
+      <act>LP</act>
+      <valoare>61.9100</valoare>
+  </item >
+  <item>
+      <data>2012-10-17</data>
+      <explicatie>LP Septembrie 2012</explicatie>
+      <act>LP</act>
+      <valoare>84.8200</valoare>
+  </item >
+  <item>
+      <data>2012-11-20</data>
+      <explicatie>LP Octombrie 2012</explicatie>
+      <act>LP</act>
+      <valoare>76.1000</valoare>
+  </item >
+  <item>
+      <data>2012-12-12</data>
+      <explicatie>plata intretinere</explicatie>
+      <act>URB/3260</act>
+      <valoare>279.0300</valoare>
+  </item >
+  <item>
+      <data>2012-12-12</data>
+      <explicatie>plata penalizare</explicatie>
+      <act>URB/3261</act>
+      <valoare>10.6100</valoare>
+  </item >
+  <item>
+      <data>2012-12-17</data>
+      <explicatie>LP Noiembrie 2012</explicatie>
+      <act>LP</act>
+      <valoare>80.3800</valoare>
+  </item >
+</fisacont>
